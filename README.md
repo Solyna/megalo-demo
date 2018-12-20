@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # megalo-demo
 
 ## 描述
@@ -27,3 +28,6 @@ npm run dev:alipay
 ```bash
 npm run dev:swan
 ```
+=======
+# megalo-demo
+>>>>>>> 98c70aac514106c3b142639993977ccdff0bf9d5
