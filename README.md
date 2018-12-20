@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # megalo-demo
 
 ## 描述
@@ -7,7 +7,7 @@ a megalo project
 
 ## 作者
 
-songling <songling@lechebang.com>
+songling
 
 ## 运行
 
@@ -30,4 +30,3 @@ npm run dev:swan
 ```
 =======
 # megalo-demo
->>>>>>> 98c70aac514106c3b142639993977ccdff0bf9d5
